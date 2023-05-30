@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Revise on Angular framework",
+      "day": "23 May to 29 May",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Understand LGT bank business line",
+      "day": "28 May",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Read up on Jest testing library",
+      "day": "30 May",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Add Jest to learning project",
+      "day": "31 May",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
